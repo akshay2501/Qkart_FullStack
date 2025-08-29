@@ -3,10 +3,10 @@
 
 **QKart** is a traditional brick-and-mortar supermarket chain with stores in over 30 cities throughout India. It is a **Flipkart-like** web platform with all the necessary functionalities.
 
-**Hosted Website URL:** https://apoorva-qkart-frontend.netlify.app/
+**Hosted Website URL:** https://qkart-delta.vercel.app/
 
-### Qkart Backend Repo: https://github.com/Apoorv0503/Qkart_backend_Apoorv
-**Hosted Backend URL:** https://qkart-backend-bug-apd1.onrender.com
+### Qkart Backend Repo: https://github.com/akshay2501/Qkart_Backend
+**Hosted Backend URL:** https://qkart-fullstack-e960.onrender.com
 
 ## Note From Developer
 
