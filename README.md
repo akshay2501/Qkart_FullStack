@@ -8,7 +8,7 @@
 ### Qkart Backend Repo: https://github.com/akshay2501/Qkart_Backend
 **Hosted Backend URL:** https://qkart-fullstack-e960.onrender.com
 
-## Note From Developer
+## Note From Developer 
 
 Welcome to **QKart’s frontend!** The QKart frontend is built using React.js and MaterialUI majorly. This Project has the **features** like:
 
